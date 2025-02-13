@@ -158,6 +158,8 @@ HyunCafe (https://github.com/HyunCafe)<br>
 
 ## S
 
+- Steve Senteio (https://github.com/Senteio)                                                             
+  "My goal is to proficient in data science enough to build a robo-advisor and to be a digital finance researcher"
 - 5idneyD (https://github.com/5idneyD)<br>
   "My goal in 2023 is to become proficient in Rust, and expand my accounting website"
 
